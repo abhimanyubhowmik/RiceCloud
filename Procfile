@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run App/main.py --logger.level=info 2>Log/rice_cloud.log
+web: sh setup.sh && streamlit run App/main.py -- 2>Log/rice_cloud.log
