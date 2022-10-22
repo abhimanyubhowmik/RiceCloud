@@ -27,7 +27,7 @@
 <br><br>
 
 <div align="center">
-<img src = "./Images/Architecture of VGG + LGBM.png" width="70%">
+<img src = "./Images/Architecture of VGG + LGBM.png" width="100%">
 <p>Conceptual view of the proposed architecture </p>
 </div>
 
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<img src = "./Images/preprocessed.png" width="100%">
+<img src = "./Images/preprocessed.png" width="70%">
 <p>Preprocessed Image Sample for BrownSpot class </p>
 </div>
 
