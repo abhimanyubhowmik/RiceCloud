@@ -5,7 +5,7 @@
 [Abhimanyu Bhowmik](https://scholar.google.com/citations?user=r3bzJ7oAAAAJ&hl=en), [Madhushree Sannigrahi](https://scholar.google.com/citations?user=Mtnm7igAAAAJ&hl=en), [Deepraj Chowdhury](https://scholar.google.com/citations?user=9sZgeV4AAAAJ&hl=en), [Debanjan Das](https://scholar.google.com/citations?hl=en&user=ss7qwk4AAAAJ)
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1002/itl2.395) 
-[![dataset](https://img.shields.io/badge/Kaggle-Dataset-brightblue))](https://www.kaggle.com/datasets/shayanriyaz/riceleafs) 
+[![dataset](https://img.shields.io/badge/Kaggle-Dataset-blue))](https://www.kaggle.com/datasets/shayanriyaz/riceleafs) 
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://drive.google.com/file/d/1xo0QhifZ2juq-dHoke1nMhcgLlhQJKsj/view?usp=sharing) 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abhimanyubhowmik-ricecloud-appmain-ryht61.streamlitapp.com/)
 
