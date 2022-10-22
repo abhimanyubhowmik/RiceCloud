@@ -114,7 +114,7 @@
 <h2>Cite our work</h2>
 
     
-    Bhowmik, A., Sannigrahi, M., Chowdhury, D., Das, D. (2022). RiceCloud: A Cloud integrated Ensemble learning based Rice leaf Diseases prediction System. Acepted in IEEE 19th India Council International Conference, INDICON 2022.
+    Bhowmik, A., Sannigrahi, M., Chowdhury, D., Das (2022). RiceCloud: A Cloud integrated Ensemble learning based Rice leaf Diseases prediction System. Acepted in IEEE 19th India Council International Conference, INDICON 2022.
 
 
 <hr />
