@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<img src = "./Images/preprocessed.png" width="70%">
+<img src = "./Images/preprocessed.png" width="100%">
 <p>Preprocessed Image Sample for BrownSpot class </p>
 </div>
 
@@ -89,8 +89,6 @@
 
 <h3>3. ROC - AUC Curves</h3>
 
-We used the IDRiD Segmentation Dataset for testing our proposed exudates detection algorithm.
-
 <div align="center">
 <table>
   <tr>
@@ -99,6 +97,14 @@ We used the IDRiD Segmentation Dataset for testing our proposed exudates detecti
   </tr>
 </table>
 <p>(a), (b) Globar Receiver operating characteristic Curve (left) ROC curves for indevisual classes (right).</p>
+</div>
+<br><br>
+
+<h3>4. RiceCloud: Application UI</h3>
+
+<div align="center">
+<img src = "./Images/UI.png" width="50%">
+<p>UI of deployed application using Streamlit</p>
 </div>
 <br><br>
 
