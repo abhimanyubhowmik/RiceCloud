@@ -18,10 +18,12 @@
 <h2>About Dataset</h2>
 
 <h3>Context</h3>
+
 Shayan Riyaz found this dataset when it was not uploaded on Kaggle and was scattered across the internet. This dataset is a collection of multiple data sets that can be found online. The size of this dataset is ~ 7 GB due to the high resolution of images. The number of images in the dataset is
 3355 `.jpg` files.
 
 <h3>Content</h3>
+
 The dataset has been divided into two groups, `train` and `validation`.
 Inside the two folders are 4 categories of types:
 
