@@ -7,6 +7,6 @@ plotly
 scikit-image
 scikit-learn
 seaborn
-streamlit==1.11.0
+streamlit==1.11.1
 torch==1.12.1+cpu
 torchvision==0.13.1+cpu
