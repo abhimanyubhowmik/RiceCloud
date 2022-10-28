@@ -9,6 +9,7 @@
 [![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/RiceCloud/tree/main/Model)
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://drive.google.com/file/d/1xo0QhifZ2juq-dHoke1nMhcgLlhQJKsj/view?usp=sharing) 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abhimanyubhowmik-ricecloud-appmain-ryht61.streamlitapp.com/)
+[![Heroku](https://img.shields.io/badge/Open_in-Heroku-blueviolet?logo=Heroku&logoColor=white)](https://ricecloud.herokuapp.com)
 
 
 
