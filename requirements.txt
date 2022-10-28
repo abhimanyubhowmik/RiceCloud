@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 lightgbm==3.3.3
 matplotlib
 numpy
@@ -7,5 +8,5 @@ scikit-image
 scikit-learn
 seaborn
 streamlit==1.11.0
-torch==1.12.1
-torchvision==0.13.1
+torch==1.12.1+cpu
+torchvision==0.13.1+cpu
