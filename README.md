@@ -140,7 +140,20 @@ Sample Images from the dataset can be found in the the folder `./Sample Images`.
 <h2>Cite our work</h2>
 
     
-    Bhowmik A., Sannigrahi M., Chowdhury D., Das D. (2022) . RiceCloud: A Cloud integrated Ensemble learning based Rice leaf Diseases prediction System. Acepted in IEEE 19th India Council International Conference, INDICON 2022.
+```bibtex
+
+@INPROCEEDINGS{10039790,
+  author={Bhowmik, Abhimanyu and Sannigrahi, Madhushree and Chowdhury, Deepraj and Das, Debanjan},
+  booktitle={2022 IEEE 19th India Council International Conference (INDICON)}, 
+  title={RiceCloud: A Cloud integrated Ensemble learning based Rice leaf Diseases Prediction System}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/INDICON56171.2022.10039790}}
+
+```
+
 
 
 <hr />
