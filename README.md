@@ -4,7 +4,7 @@
 
 [Abhimanyu Bhowmik](https://scholar.google.com/citations?user=r3bzJ7oAAAAJ&hl=en), [Madhushree Sannigrahi](https://scholar.google.com/citations?user=Mtnm7igAAAAJ&hl=en), [Deepraj Chowdhury](https://scholar.google.com/citations?user=9sZgeV4AAAAJ&hl=en), [Debanjan Das](https://scholar.google.com/citations?hl=en&user=ss7qwk4AAAAJ)
 
-[![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1002/itl2.395) 
+[![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1109/INDICON56171.2022.10039790) 
 [![dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/shayanriyaz/riceleafs) 
 [![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/RiceCloud/tree/main/Model)
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1gvCsCyNCn75RjuJnyyVfNFqU01OW1PKzvIrtb3buVqM/edit?usp=sharing) 
